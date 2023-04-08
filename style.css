@@ -1,0 +1,17 @@
+
+.oswald{
+	font-family: 'Oswald', sans-serif;
+}
+.libre{
+font-family: 'Libre Baskerville', serif;
+}
+.abril{
+	font-family: 'Abril Fatface', cursive;
+}
+.vibes{
+	font-family: 'Great Vibes', cursive;
+}
+body{
+	color: #ffe2cd;
+	background: black;
+}
