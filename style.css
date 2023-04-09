@@ -15,3 +15,14 @@ body{
 	color: #ffe2cd;
 	background: black;
 }
+.blur-h{
+	filter: blur(90px);
+}
+
+.herr{
+	font-family: 'Herr Von Muellerhoff', cursive;
+}
+
+.roboto{
+	font-family: 'Roboto Slab', serif;
+}
